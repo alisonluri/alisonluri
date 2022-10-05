@@ -4,14 +4,6 @@
 - 🌱 Conhecimento em TypeScript, express, MySQL
 - Cursando Web Full Stack, na Labenu
 
-##
-
-<div align="center">
-  <a href="https://github.com/alisonluri">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alisonluri&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-
-  </a>
-</div>
 
 ## **Tecnologias**
 <div style="display: inline_block"><br>
