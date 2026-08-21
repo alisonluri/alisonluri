@@ -1,8 +1,9 @@
 ## Olá! Sou Alison Ribeiro, Dev Frontend 👋
 
+- Cursando Engenharia de Software
 - 🔭 Front end, em React JS, HTML, CSS
-- 🌱 Conhecimento em TypeScript, express, MySQL
-- Cursando Web Full Stack, na Labenu
+- 🌱 Conhecimento em JavaScript, TypeScript, express, MySQL
+- Curso Web Full Stack
 
 
 ## **Tecnologias**
